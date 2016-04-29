@@ -1,3 +1,3 @@
 ### Testing Nested Markdown Doc
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/octocat-logo.png)
